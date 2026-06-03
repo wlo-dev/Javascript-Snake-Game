@@ -23,7 +23,7 @@ Interactive Snake game developed using JavaScript, featuring smooth keyboard con
 ✅ Classic arcade-inspired design
 
 
-**Technologies Used**
+# Technologies Used
 
 HTML5
 
@@ -40,4 +40,16 @@ cd javascript-snake-game
 Open index.html in your web browser or 
 Use VS Code with the Live Server extension:
 Right Click → Open with Live Server
+
+
+
+<h2 align="center">How to Play & Controls</h2>
+
+<p align="center">
+  <img src="images/controls-guide.png" alt="Snake Game Controls" width="800">
+</p>
+
+
+
+
 
