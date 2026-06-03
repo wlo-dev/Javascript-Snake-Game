@@ -24,20 +24,20 @@ Interactive Snake game developed using JavaScript, featuring smooth keyboard con
 
 
 **Technologies Used**
+
 HTML5
+
 CSS3
+
 JavaScript (ES6)
 
 **How to Start the Game**
+
 Option 1: Run Locally
 Clone the repository
 Navigate to the project folder
 cd javascript-snake-game
-Open index.html in your web browser.
-
-**OR**
-
+Open index.html in your web browser or 
 Use VS Code with the Live Server extension:
-
 Right Click → Open with Live Server
 
