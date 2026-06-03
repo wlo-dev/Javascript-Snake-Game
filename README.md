@@ -42,10 +42,7 @@ Use VS Code with the Live Server extension:
 Right Click → Open with Live Server
 
 
-
 <h2 align="center">How to Play & Controls</h2>
 <p align="center">
-  <img src="JavaScript Snake Game/Snake-Game-project-1-main" alt="Controls Guide" width="850">
+  <img src="JavaScript Snake Game/Snake-Game-project-1-main/controls-guide.png" alt="Controls Guide" width="850">
 </p>
-
-
