@@ -45,7 +45,7 @@ Right Click → Open with Live Server
 
 <h2 align="center">How to Play & Controls</h2>
 <p align="center">
-  <img src="controls-guide.png" alt="Controls Guide" width="850">
+  <img src="Snake-Game-project-1-main/controls-guide.png" alt="Controls Guide" width="850">
 </p>
 
 
