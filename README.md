@@ -23,23 +23,18 @@ Interactive Snake game developed using JavaScript, featuring smooth keyboard con
 ✅ Classic arcade-inspired design
 
 
-# Technologies Used
+## 🛠️ Technologies Used
 
-HTML5
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-CSS3
+## 🚀 How to Start the Game
 
-JavaScript (ES6)
-
-**How to Start the Game**
-
-Option 1: Run Locally
-Clone the repository
-Navigate to the project folder
-cd javascript-snake-game
-Open index.html in your web browser or 
-Use VS Code with the Live Server extension:
-Right Click → Open with Live Server
+**Option 1: Run Locally**
+1. Clone the repository
+2. Navigate to the project folder: `cd javascript-snake-game`
+3. Open `index.html` in your browser, or use **VS Code Live Server** → Right Click → *Open with Live Server*
 
 
 <h2 align="center">How to Play & Controls</h2>
